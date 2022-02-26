@@ -29,4 +29,5 @@ Python scripts for deploying Earth Engine Apps to heroku, try it out: <https://g
 
 ## Credits
 
-The instructions above on how to deploy a voila application on heroku are adapted from [voila-dashboards/voila-heroku](https://github.com/voila-dashboards/voila-heroku).
+The instructions above on how to deploy a voila application on heroku are adapted from [voila-dashboards/voila-heroku](https://github.com/voila-dashboards/voila-heroku). 
+
